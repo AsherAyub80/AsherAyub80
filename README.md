@@ -37,7 +37,11 @@
 <hr>
 
 ### 🎨 My Work
+- Check out my github and linkedin for my work:
 
-- Check out my git for my work
-    <a href="https://github.com/AsherAyub80" target="_blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30" width="100" alt="Github" /></a>
-
+<a href="https://github.com/AsherAyub80" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30" width="100" alt="GitHub" style="vertical-align: middle;" />
+</a>
+<a href="https://linkedin.com/in/asherayub80/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25" width="100" alt="LinkedIn" style="vertical-align: middle;" />
+</a>
