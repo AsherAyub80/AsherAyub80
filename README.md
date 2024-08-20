@@ -13,7 +13,7 @@
 
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/asher-ayub-39b376245/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="20" width="60" alt="LinkedIn" /></a>
+    <a href="https://linkedin.com/in/asherayub80/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="20" width="60" alt="LinkedIn" /></a>
 <a href="mailto:asherayub80@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" width="60" alt="Gmail" />
 </a>
