@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Asher%20Ayub&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Flutter%20%26%20Frontend%20Developer%20%7C%20Cross-Platform%20Engineer&descAlignY=60&descSize=20&animation=fadeIn" />
+<img src="./banner.svg" width="100%" alt="Asher Ayub — Flutter Developer" />
 
 </div>
 
@@ -323,8 +323,6 @@ class AsherAyub extends FlutterDeveloper {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-
-<sub>⚡ Crafted with Flutter-grade precision by <a href="https://github.com/AsherAyub80">Asher Ayub</a></sub>
+<img src="./footer.svg" width="100%" alt="footer" />
 
 </div>
