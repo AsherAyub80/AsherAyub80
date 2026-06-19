@@ -55,13 +55,11 @@ class AsherAyub extends FlutterDeveloper {
 ```
 
 ---
-
-## 🏆 GitHub Trophies
-
+ 
+## 📈 Expertise Levels
+ 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AsherAyub80&theme=onestar&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+<img src="./skills.svg" width="100%" alt="Expertise Levels" />
 </div>
 
 ---
