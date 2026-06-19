@@ -1,47 +1,330 @@
-![background](https://github.com/musman-js/musman-js/assets/142093838/3aca18ca-3f5c-4f3a-a816-31fdb44367dc)
+<div align="center">
 
-### Hey Guys👋I'm [Asher Ayub.!](https://github.com/AsherAyub80)
-<p>Hello fellow coders and tech enthusiasts! I am Muhammad Asher Ayub, a dedicated Flutter developer with a passion for creating high-performance, cross-platform mobile applications. With a strong background in Flutter and Dart, I specialize in building intuitive and responsive apps that deliver exceptional user experiences on both Android and iOS.</p>
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Asher%20Ayub&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Flutter%20%26%20Frontend%20Developer%20%7C%20Cross-Platform%20Engineer&descAlignY=60&descSize=20&animation=fadeIn" />
 
-<p align="right"> <img src="https://visitcount.itsvg.in/api?id=AsherAyub80&icon=0&color=0)](https://visitcount.itsvg.in" alt="AsherAyub80" style="margin-top: -30px; margin-bottom: 20px;" width="130px" height="30px"/> </p>
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="coding" width="350" align="right" class="coding-gif" style="margin-top: -30px; margin-bottom: 15px">
+</div>
 
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer+%F0%9F%93%B1;Cross-Platform+Mobile+Engineer+%F0%9F%9A%80;React+%26+Full-Stack+Builder+%F0%9F%8C%90;AI-Powered+Dev+Workflows+%F0%9F%A4%96;8+Production+Apps+Shipped+%E2%9C%85)](https://git.io/typing-svg)
 
-<br>
+</div>
 
-<h3 align="left">📫 Connect with me on 🔗 :</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/asherayub80/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="20" width="60" alt="LinkedIn" /></a>
-<a href="mailto:asherayub80@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" width="60" alt="Gmail" />
-</a>
-<hr>
+<div align="center">
 
-<h3 align="left">Languages and Tools ⚙️🔧 :</h3>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=github,vscode" />
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asherayub80)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asherayub80@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-asherayub.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsherAyub80)
+[![Profile Views](https://komarev.com/ghpvc/?username=AsherAyub80&style=for-the-badge&color=6D28D9)](https://github.com/AsherAyub80)
 
-<hr>
+</div>
 
-<h3 align="left">Plans of Learning 📚✨:</h3>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,py" />
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb">
-    <img src="https://skillicons.dev/icons?i=django" alt="django",>
-</p>
+---
 
-<hr>
+## 🧑‍💻 About Me
 
-### 🎨 My Work
-- Check out my github and linkedin for my work:
+```dart
+class AsherAyub extends FlutterDeveloper {
 
-<a href="https://github.com/AsherAyub80" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30" width="100" alt="GitHub" style="vertical-align: middle;" />
-</a>
-<a href="https://linkedin.com/in/asherayub80/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25" width="100" alt="LinkedIn" style="vertical-align: middle;" />
-</a>
+  // 🏙️  Based in Karachi, Pakistan
+  // 💼  Currently @ DotClick LLC
+  // 🎓  B.S. Software Engineering — Virtual University of Pakistan
+
+  final String primaryStack   = "Flutter · Dart · Firebase";
+  final String webStack       = "React · Next.js · Node.js · FastAPI";
+  final String cloudStack     = "Supabase · PostgreSQL · MongoDB · Vercel";
+  final String aiTools        = "Cursor · Claude Code · Lovable · OpenAI Codex";
+
+  final int appsShipped       = 8;           // iOS + Android + Web
+  final int sectorsDelivered  = 6;           // booking · healthcare · social · food · real estate · wellness
+
+  Future<void> dailyRoutine() async {
+    await drinkCoffee();
+    await writeCleanCode();
+    await shipToProduction();
+    await learnSomethingNew();
+  }
+
+  List<String> interests = [
+    "🤖  AI / Machine Learning",
+    "⛓️   Blockchain Technology",
+    "🎮  Video Game Development",
+  ];
+}
+```
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AsherAyub80&theme=onestar&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🛠️ Full Tech Stack
+
+<div align="center">
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-F04E23?style=for-the-badge&logoColor=white)
+
+### 🔄 State Management
+![GetX](https://img.shields.io/badge/GetX-8B5CF6?style=for-the-badge&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-0288D1?style=for-the-badge&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-1BA9DE?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🌐 Frontend & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Databases & Cloud
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔌 Payments & Integrations
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge&logo=json&logoColor=white)
+
+### 🤖 AI-Assisted Development
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq AI](https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+> 8 production apps delivered across **Booking · Healthcare · Social · Food Delivery · Real Estate · Wellness**
+
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Stack</th>
+<th>Sector</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><b>✂️ VIB Barber</b></td>
+<td>On-demand barber booking with real-time scheduling, service & availability management, and a full RevenueCat subscription flow — live on both stores</td>
+<td>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/RevenueCat-F04E23?style=flat-square&logoColor=white"/>
+</td>
+<td><code>📅 Booking</code></td>
+</tr>
+
+<tr>
+<td><b>🧒 KiddoKit</b></td>
+<td>Therapy companion for therapists, educators & children — visual schedules, token reward boards, and progress tracking built for accessibility and daily clinical use</td>
+<td>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GetX-8B5CF6?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+</td>
+<td><code>🏥 Healthcare</code></td>
+</tr>
+
+<tr>
+<td><b>🍔 Moogose Burger</b></td>
+<td>Food ordering & delivery app with real-time order pipeline, Stripe payments, and a Node.js + MongoDB backend handling menu, orders, and delivery state</td>
+<td>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white"/>
+</td>
+<td><code>🍕 Food Delivery</code></td>
+</tr>
+
+<tr>
+<td><b>🎬 Shined</b></td>
+<td>Short-video social platform with real-time Socket.io chat, content discovery feed, follow/interaction systems, and clean GetX architecture throughout</td>
+<td>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GetX-8B5CF6?style=flat-square&logo=flutter&logoColor=white"/>
+</td>
+<td><code>📲 Social</code></td>
+</tr>
+
+<tr>
+<td><b>🧠 MindfulMeals</b></td>
+<td>Full-stack wellness app with AI-driven meal & restaurant recommendations (Groq + pgvector), GPS discovery, social feed, and an 8-page React admin panel wired to the live API</td>
+<td>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logoColor=white"/>
+</td>
+<td><code>🥗 Wellness · AI</code></td>
+</tr>
+
+<tr>
+<td><b>🚗 NextDrive</b></td>
+<td>Accident-replacement vehicle platform for an Australian client — responsive mobile-first UI, polished global animation system, admin panel deployed to production on Vercel</td>
+<td>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+</td>
+<td><code>🏢 Real Estate · Auto</code></td>
+</tr>
+
+<tr>
+<td><b>🏪 Business Marketplace</b></td>
+<td>B2B marketplace with OTP-verified contact reveal, tiered subscription plans, and a super-admin billing panel managing listings and user roles</td>
+<td>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+</td>
+<td><code>🤝 B2B · SaaS</code></td>
+</tr>
+
+<tr>
+<td><b>🧘 Chiezda</b></td>
+<td>Wellness app with mindfulness tools, gratitude journaling, community features, and push notifications — RevenueCat subscription flow synced across both stores</td>
+<td>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RevenueCat-F04E23?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+</td>
+<td><code>🧘 Wellness</code></td>
+</tr>
+
+</tbody>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AsherAyub80&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsherAyub80&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AsherAyub80&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Asher's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AsherAyub80&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td width="8%" align="center">🏢</td>
+<td width="42%"><b>Flutter & Frontend Developer</b><br/><i>DotClick LLC — Karachi, Pakistan</i></td>
+<td width="20%"><code>Nov 2024 – Present</code></td>
+<td width="30%">Agile team · Android & iOS release pipelines · Real-time booking systems · React admin panels with RBAC</td>
+</tr>
+<tr>
+<td align="center">🏢</td>
+<td><b>Flutter Developer</b><br/><i>Alisons Technology — Karachi, Pakistan</i></td>
+<td><code>Oct 2024 – Nov 2024</code></td>
+<td>Flutter Android & iOS · State management · REST API integration</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education
+
+<table>
+<tr>
+<td width="8%" align="center">🎓</td>
+<td><b>Bachelor of Science in Software Engineering (BSSE)</b><br/><i>Virtual University of Pakistan</i> — <code>2023 – Present</code></td>
+</tr>
+</table>
+
+---
+
+## 🌍 Open To
+
+<div align="center">
+
+| 🤝 Freelance Projects | 💼 Full-Time Roles | 🌐 Remote Work | 🚀 Open Source |
+|:---:|:---:|:---:|:---:|
+| Mobile & Web Apps | Flutter / React Dev | Worldwide | Contributions |
+
+</div>
+
+---
+
+## 📫 Get In Touch
+
+<div align="center">
+
+**Building something cool? Let's talk.**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asherayub80)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-asherayub.vercel.app)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asherayub80@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+<sub>⚡ Crafted with Flutter-grade precision by <a href="https://github.com/AsherAyub80">Asher Ayub</a></sub>
+
+</div>
