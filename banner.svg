@@ -1,0 +1,45 @@
+<svg width="900" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a78bfa"/>
+      <stop offset="100%" style="stop-color:#818cf8"/>
+    </linearGradient>
+    <!-- Wave path at bottom -->
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bg)"/>
+
+  <!-- Decorative circles -->
+  <circle cx="820" cy="40" r="60" fill="#a78bfa" opacity="0.08"/>
+  <circle cx="80" cy="160" r="45" fill="#818cf8" opacity="0.07"/>
+  <circle cx="450" cy="10" r="30" fill="#c4b5fd" opacity="0.06"/>
+
+  <!-- Dot grid pattern top-right -->
+  <g opacity="0.12" fill="#a78bfa">
+    <circle cx="760" cy="20" r="2"/><circle cx="780" cy="20" r="2"/><circle cx="800" cy="20" r="2"/>
+    <circle cx="760" cy="40" r="2"/><circle cx="780" cy="40" r="2"/><circle cx="800" cy="40" r="2"/>
+    <circle cx="760" cy="60" r="2"/><circle cx="780" cy="60" r="2"/><circle cx="800" cy="60" r="2"/>
+  </g>
+
+  <!-- Wave at bottom -->
+  <path d="M0,160 C150,140 300,180 450,160 C600,140 750,180 900,160 L900,200 L0,200 Z" fill="#a78bfa" opacity="0.12"/>
+  <path d="M0,175 C200,155 400,195 600,175 C750,160 850,185 900,175 L900,200 L0,200 Z" fill="#818cf8" opacity="0.1"/>
+
+  <!-- Name -->
+  <text x="450" y="90" font-family="'Segoe UI', Arial, sans-serif" font-size="54" font-weight="700"
+        fill="url(#accent)" text-anchor="middle" letter-spacing="2">Asher Ayub</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="128" font-family="'Segoe UI', Arial, sans-serif" font-size="17" font-weight="400"
+        fill="#e2e8f0" text-anchor="middle" letter-spacing="1" opacity="0.9">Flutter Developer  ·  Cross-Platform Engineer  ·  React Builder</text>
+
+  <!-- Bottom tag line -->
+  <text x="450" y="158" font-family="'Segoe UI', Arial, sans-serif" font-size="13"
+        fill="#a78bfa" text-anchor="middle" letter-spacing="2" opacity="0.85">📱 iOS  &amp;  Android  ·  🌐 Web  ·  🤖 AI-Powered Workflows</text>
+</svg>
