@@ -233,6 +233,48 @@ class AsherAyub extends FlutterDeveloper {
 </table>
 
 ---
+## 📦 Open Source Packages
+
+### 📊 [flutter_sales_graph](https://pub.dev/packages/flutter_sales_graph)
+
+A highly customizable bar chart package for Flutter designed to display sales trends and data metrics smoothly across all platforms.
+
+![pub version](https://img.shields.io/pub/v/flutter_sales_graph?color=blue)
+![pub points](https://img.shields.io/pub/points/flutter_sales_graph?color=brightgreen)
+![pub likes](https://img.shields.io/pub/likes/flutter_sales_graph?color=ff69b4)
+![platform](https://img.shields.io/badge/platform-Flutter%20%7C%20Android%20%7C%20iOS%20%7C%20Web%20%7C%20Desktop-blue)
+
+---
+
+#### ✨ Features
+- 📊 Smooth animated bar chart rendering
+- ⚡ Lightweight and high-performance UI
+- 🎨 Fully customizable styles (colors, spacing, labels)
+- 📱 Responsive across all screen sizes
+- 🌍 Cross-platform support (Android, iOS, Web, Desktop)
+- 🧠 Built for real-world production dashboards
+
+---
+
+#### 🚀 Why this package
+- Designed for real analytics & sales dashboards
+- Clean and minimal API design
+- Zero unnecessary dependencies
+- Production-tested performance
+
+---
+
+#### 🧪 Quality
+- ✔ Pana Score: 160/160
+- ✔ Fully linted & production-ready
+- ✔ Optimized for smooth rendering performance
+- ✔ Follows Flutter best practices
+
+---
+
+- **Platform Target:** Universal support for Android, iOS, Web, Windows, macOS, and Linux.
+---
+
 
 ## 📊 GitHub Stats
 
@@ -275,6 +317,7 @@ class AsherAyub extends FlutterDeveloper {
 </table>
 
 ---
+
 
 ## 🎓 Education
 
