@@ -349,7 +349,7 @@ A highly customizable bar chart package for Flutter designed to display sales tr
 **Building something cool? Let's talk.**
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asherayub80)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-asherayub.vercel.app)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://asher-ayub-avatar-portfolio.me/)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asherayub80@gmail.com)
 
 </div>
