@@ -304,7 +304,7 @@ A highly customizable bar chart package for Flutter designed to display sales tr
 <table>
 <tr>
 <td width="8%" align="center">🏢</td>
-<td width="42%"><b>Flutter & Full Stack Developer</b><br/><i>DotClick LLC — Karachi, Pakistan</i></td>
+<td width="42%"><b>Flutter & Full-Stack Developer</b><br/><i>DotClick LLC — Karachi, Pakistan</i></td>
 <td width="20%"><code>Nov 2024 – Present</code></td>
 <td width="30%">Agile team · Android & iOS release pipelines · Real-time booking systems · React admin panels with RBAC</td>
 </tr>
