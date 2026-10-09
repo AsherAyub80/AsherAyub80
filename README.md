@@ -324,7 +324,7 @@ A highly customizable bar chart package for Flutter designed to display sales tr
 <table>
 <tr>
 <td width="8%" align="center">🎓</td>
-<td><b>Bachelor of Science in Software Engineering (BSSE)</b><br/><i>Virtual University of Pakistan</i> — <code>2023 – Present</code></td>
+<td><b>Bachelor of Science in Software Engineering (BSSE)</b><br/><i>Virtual University of Pakistan</i> — <code>2024 – Present</code></td>
 </tr>
 </table>
 
